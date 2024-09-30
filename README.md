@@ -1,7 +1,7 @@
 Olá Mundo, Soy Matheus Pereira (ttw) ✌
 
 
-- 🌱 Estudando tudo(sempre), mas no momento aprendendo React-Native
+- 🌱 Ciência de dados 
 - 📫 Contate-me por email: ttwmatheus@gmail.com
 
 <div align="center">
@@ -13,7 +13,7 @@ Olá Mundo, Soy Matheus Pereira (ttw) ✌
   <img align="center" alt="ttw-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="ttw-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="ttw-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-    <img align="center" alt="ttw-bootstrap" height="30" width="40" src= "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain-wordmark.svg" />
+    <img align="center" alt="ttw-bootstrap" height="30" width="40" src= "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/bootstrap-java-original.svg" />
     <img align="center" alt="ttw-node" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
     <img align="center" alt="ttw-php" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" />
     <img align="center" alt="ttw-php" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
