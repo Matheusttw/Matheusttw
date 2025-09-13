@@ -1,4 +1,4 @@
-=Soy Matheus Pereira (ttw) ✌
+Soy Matheus Pereira (ttw) ✌
 
 
 - 🌱 Ciência de dados 
